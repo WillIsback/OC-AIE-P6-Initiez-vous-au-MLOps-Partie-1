@@ -8,8 +8,8 @@ EDA → **agrégats & jointures des 6 tables secondaires** → préparation → 
 
 - Notebook : [`notebooks/p6_ml.ipynb`](notebooks/p6_ml.ipynb)
 - Consulter le notebook exécuté sans le relancer (~53 min) :
-  - export HTML statique (sorties et graphiques inclus) : [`docs/p6_ml.html`](docs/p6_ml.html) — à télécharger puis ouvrir dans un navigateur, ou [aperçu en ligne](https://html-preview.github.io/?url=https://github.com/WillIsback/P6_Initiez-vous_au_MLOps_Partie_1/blob/main/docs/p6_ml.html)
-  - rendu via [nbviewer](https://nbviewer.org/github/WillIsback/P6_Initiez-vous_au_MLOps_Partie_1/blob/main/notebooks/p6_ml.ipynb)
+  - export HTML statique (sorties et graphiques inclus) : [`docs/p6_ml.html`](docs/p6_ml.html) — à télécharger puis ouvrir dans un navigateur, ou [aperçu en ligne](https://html-preview.github.io/?url=https://github.com/WillIsback/OC-AIE-P6-Initiez-vous-au-MLOps-Partie-1/blob/main/docs/p6_ml.html)
+  - rendu via [nbviewer](https://nbviewer.org/github/WillIsback/OC-AIE-P6-Initiez-vous-au-MLOps-Partie-1/blob/main/notebooks/p6_ml.ipynb)
 - Documentation détaillée (choix + application, en français) : [`docs/`](docs/README.md)
 - Captures de l'interface MLflow (runs, comparaison, run tuné, artefacts, registry, inférence) : [`docs/img/`](docs/img/)
 
@@ -32,7 +32,7 @@ principale seule) plafonnait à AUC 0,766 / coût 0,522.
 ## Installation
 
 ```bash
-git clone <ce-dépôt> && cd P6_Initiez-vous_au_MLOps_Partie_1
+git clone <ce-dépôt> && cd OC-AIE-P6-Initiez-vous-au-MLOps-Partie-1
 uv sync                 # Python 3.11 + toutes les dépendances (uv.lock figé)
 ```
 
